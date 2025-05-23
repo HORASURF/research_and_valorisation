@@ -11,4 +11,136 @@
       name="Customer journey"
       id="id-de3816436c8a4df286075a721873db48"
       conceptType="BusinessProcess"/>
+  <profiles
+      name="Contract"
+      id="id-e08a6a4e4c0a4c2e897d4fb637ec9f4b"
+      conceptType="Contract"/>
+  <profiles
+      name="Driver"
+      id="id-2a2ecb6694d34666b2152c9aef40e64e"
+      conceptType="Driver"/>
+  <profiles
+      name="Goal"
+      id="id-2b63d0487ff24c3eaa247b10304ff3da"
+      conceptType="Goal"/>
+  <profiles
+      name="Principle"
+      id="id-1e8456dcc8c44879a81af5e32ae062a8"
+      conceptType="Principle"/>
+  <profiles
+      name="Requirement"
+      id="id-e3edf8f53612473daf3bdd69b57ccbf2"
+      conceptType="Requirement"/>
+  <profiles
+      name="Standard"
+      id="id-2a4a02fe7c4d451083bf19b34c031157"
+      conceptType="Constraint"/>
+  <profiles
+      name="Strategy"
+      id="id-88584d103a904565b9b272a25f49d244"
+      conceptType="CourseOfAction"/>
+  <profiles
+      name="Capability"
+      id="id-1292ccb0837549d3929f77d13e2904b7"
+      conceptType="Capability"/>
+  <profiles
+      name="Value stream"
+      id="id-20f9c6e389ee4e73b0722a1a7432faec"
+      conceptType="ValueStream"/>
+  <profiles
+      name="Product"
+      id="id-263aff7a1f5e40afb4c4c608068524ba"
+      conceptType="Product"/>
+  <profiles
+      name="Business service"
+      id="id-32e4d5b266f542ea8194414126a99693"
+      conceptType="BusinessService"/>
+  <profiles
+      name="Channel"
+      id="id-c8f999f126f2491d9a5c1b3c412683a0"
+      conceptType="BusinessInterface"/>
+  <profiles
+      name="Partner"
+      id="id-a4fbcd22c7d8433d8819d5e7cba37c45"
+      conceptType="BusinessRole"/>
+  <profiles
+      name="Business event"
+      id="id-a1789b5d78e64441922b4f610dea30f8"
+      conceptType="BusinessEvent"/>
+  <profiles
+      name="Business object"
+      id="id-51c2a736e4e64395a9826fd0b6b4e78f"
+      conceptType="BusinessObject"/>
+  <profiles
+      name="Business function"
+      id="id-2b59918b69a4404185aad28820df4d1b"
+      conceptType="BusinessFunction"/>
+  <profiles
+      name="Process"
+      id="id-f04aaf94e8ac4570b83277831901c441"
+      conceptType="BusinessProcess"/>
+  <profiles
+      name="Internal business service"
+      id="id-32dbe3fad5e749c789c70bb0f053e02b"
+      conceptType="BusinessService"/>
+  <profiles
+      name="Employee"
+      id="id-c629a66d8b45459c9dad67fc3a9d9293"
+      conceptType="BusinessRole"/>
+  <profiles
+      name="Collaboration"
+      id="id-0300548eba67408a927be49c2c22097e"
+      conceptType="BusinessCollaboration"/>
+  <profiles
+      name="Organisational unit"
+      id="id-c4d7fcd0db464025a73bf44ab37eb202"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="Data object"
+      id="id-9ad3735574c0457ea6ac636253e01a93"
+      conceptType="DataObject"/>
+  <profiles
+      name="Application service"
+      id="id-dba6c5fd1a864affb95a06f179a23738"
+      conceptType="ApplicationService"/>
+  <profiles
+      name="Application interface"
+      id="id-084781b5160d46ad8492c660a3a8a820"
+      conceptType="ApplicationInterface"/>
+  <profiles
+      name="Application function"
+      id="id-504b20f0de914fbc8ec369176b96dcfa"
+      conceptType="ApplicationFunction"/>
+  <profiles
+      name="Application component"
+      id="id-080afe47a9ad416aafc3164bb74bbbf9"
+      conceptType="ApplicationComponent"/>
+  <profiles
+      name="Technology interface"
+      id="id-052227d44734436a8d1e15a9a6941a2b"
+      conceptType="TechnologyInterface"/>
+  <profiles
+      name="Data carrier"
+      id="id-1b7ff2a9f38d46a5ba56b9c6b7e3b25d"
+      conceptType="Artifact"/>
+  <profiles
+      name="Technology service"
+      id="id-acc6f54e58f046b8841d5b6e34c3082b"
+      conceptType="TechnologyService"/>
+  <profiles
+      name="Technology function"
+      id="id-1b5fc575a6894b5781adb2b887f274a8"
+      conceptType="TechnologyFunction"/>
+  <profiles
+      name="Technology component"
+      id="id-05792930164243ad95aa89e4c03e3025"
+      conceptType="Node"/>
+  <profiles
+      name="Device"
+      id="id-fbbf104edd0c4a9bbdb042454f2ed302"
+      conceptType="Device"/>
+  <profiles
+      name="System software"
+      id="id-6128a272d06a4d519df390aec282d0da"
+      conceptType="SystemSoftware"/>
 </archimate:ArchimateModel>
