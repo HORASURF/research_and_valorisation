@@ -1,5 +1,14 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(new model)"
+    name="HORA - research and valorisation"
     id="id-52d01800c449476187f4390398c51869"
-    version="5.0.0"/>
+    version="5.0.0">
+  <profiles
+      name="Customer"
+      id="id-6dfdf6217a6d424987b2396f8b16006b"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="Customer journey"
+      id="id-de3816436c8a4df286075a721873db48"
+      conceptType="BusinessProcess"/>
+</archimate:ArchimateModel>
