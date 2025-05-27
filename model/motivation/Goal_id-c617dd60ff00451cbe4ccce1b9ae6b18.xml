@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Improved institution flexibility"
+    id="id-c617dd60ff00451cbe4ccce1b9ae6b18"
+    documentation="Support multi-faculty, multi-institution, local, regional, national and international scenario’s.">
+  <profiles
+      href="folder.xml#id-2b63d0487ff24c3eaa247b10304ff3da"/>
+</archimate:Goal>

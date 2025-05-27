@@ -1,0 +1,7 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ensure the quality, integrity and reusability of research data and results"
+    id="id-fac3059fb48f451cafcf4286bc0f0d75">
+  <profiles
+      href="folder.xml#id-2b63d0487ff24c3eaa247b10304ff3da"/>
+</archimate:Goal>

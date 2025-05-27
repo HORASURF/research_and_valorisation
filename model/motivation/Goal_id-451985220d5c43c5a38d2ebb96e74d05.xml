@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Improved institution interoperability"
+    id="id-451985220d5c43c5a38d2ebb96e74d05"
+    documentation="Improved support for data exchange.">
+  <profiles
+      href="folder.xml#id-2b63d0487ff24c3eaa247b10304ff3da"/>
+</archimate:Goal>

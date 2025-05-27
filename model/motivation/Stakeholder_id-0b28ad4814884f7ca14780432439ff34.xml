@@ -1,0 +1,8 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dutch higher education institutions"
+    id="id-0b28ad4814884f7ca14780432439ff34"
+    documentation="Concerns: strategy realization, cost control and scalability; faculty coherence; compliance with laws and regulations">
+  <profiles
+      href="folder.xml#id-ab4c0612d62042a4bfe2c851dd15111b"/>
+</archimate:Stakeholder>

@@ -1,0 +1,7 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SURF and other service providers"
+    id="id-c670496fd80b42bbbb65bec75002334d">
+  <profiles
+      href="folder.xml#id-ab4c0612d62042a4bfe2c851dd15111b"/>
+</archimate:Stakeholder>

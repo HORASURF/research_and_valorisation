@@ -1,0 +1,7 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reduced dependence of commercial platforms"
+    id="id-e55855f8670e40229e181d9703348ad1">
+  <profiles
+      href="folder.xml#id-2b63d0487ff24c3eaa247b10304ff3da"/>
+</archimate:Goal>

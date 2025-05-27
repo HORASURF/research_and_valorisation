@@ -1,0 +1,7 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Improved support for Open Science"
+    id="id-0fcf70826032462e8d2c8d1a4b4fc9ab">
+  <profiles
+      href="folder.xml#id-2b63d0487ff24c3eaa247b10304ff3da"/>
+</archimate:Goal>

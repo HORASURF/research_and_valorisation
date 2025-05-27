@@ -143,4 +143,12 @@
       name="System software"
       id="id-6128a272d06a4d519df390aec282d0da"
       conceptType="SystemSoftware"/>
+  <profiles
+      name="Stakeholder"
+      id="id-ab4c0612d62042a4bfe2c851dd15111b"
+      conceptType="Stakeholder"/>
+  <profiles
+      name="Concern"
+      id="id-bf2cee7274944274851265f06c9da3de"
+      conceptType="Assessment"/>
 </archimate:ArchimateModel>
