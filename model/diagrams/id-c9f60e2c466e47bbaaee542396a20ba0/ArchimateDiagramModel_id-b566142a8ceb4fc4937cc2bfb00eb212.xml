@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Stakeholderview"
     id="id-b566142a8ceb4fc4937cc2bfb00eb212"
-    viewpoint="motivation">
+    viewpoint="stakeholder">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-75aaaea1ceb14a4db51c047c45518379"

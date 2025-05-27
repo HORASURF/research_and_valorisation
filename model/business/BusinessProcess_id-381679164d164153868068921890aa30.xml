@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dissemination and use"
+    id="id-381679164d164153868068921890aa30"
+    documentation="Access insights, re-use results, co-publish&#xA;Capabilities: research output repositories, briefings, media&#xA;Examples: UU Open Access Hub, EUR policy briefs">
+  <profiles
+      href="folder.xml#id-de3816436c8a4df286075a721873db48"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relationship extension"
+    id="id-19401e25b9b24b399d6beccde4421e1b"
+    documentation="Build long-term partnerships&#xA;Capabilities: network events, advisory roles, consortia formation&#xA;Example: TU Delft Valorisation Centre networks">
+  <profiles
+      href="folder.xml#id-de3816436c8a4df286075a721873db48"/>
+</archimate:BusinessProcess>

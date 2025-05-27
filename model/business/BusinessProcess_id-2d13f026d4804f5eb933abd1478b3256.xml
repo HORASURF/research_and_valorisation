@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Awareness and funding"
+    id="id-2d13f026d4804f5eb933abd1478b3256"
+    documentation="Discover research areas, find collaborators or funding&#xA;Capabilities: research funding desk, project marketplace, EU/NWO portal&#xA;Examples: UvA Research Portal, TU Delft open calls">
+  <profiles
+      href="folder.xml#id-de3816436c8a4df286075a721873db48"/>
+</archimate:BusinessProcess>

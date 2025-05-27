@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Municipalities &amp; regions"
+    id="id-6f95a7d5c0c048bcab9d9228c32f50d1"
+    documentation="Seek sustainable mobility, climate innovation, inclusion&#xA;E.g., Avans and Gemeente Breda Circular Economy pilot">
+  <profiles
+      href="folder.xml#id-6dfdf6217a6d424987b2396f8b16006b"/>
+</archimate:BusinessRole>

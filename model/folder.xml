@@ -6,7 +6,7 @@
   <profiles
       name="Customer"
       id="id-6dfdf6217a6d424987b2396f8b16006b"
-      conceptType="BusinessActor"/>
+      conceptType="BusinessRole"/>
   <profiles
       name="Customer journey"
       id="id-de3816436c8a4df286075a721873db48"

@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Execution and interaction"
+    id="id-dca01f07af6248e39afd829d609d9955"
+    documentation="Collaborate in studies, give feedback, co-analyse data&#xA;Capabilities: open lab days, fieldwork, dashboards, living labs&#xA;Examples: Erasmus Urban Governance Lab, Windesheim Fieldlab">
+  <profiles
+      href="folder.xml#id-de3816436c8a4df286075a721873db48"/>
+</archimate:BusinessProcess>

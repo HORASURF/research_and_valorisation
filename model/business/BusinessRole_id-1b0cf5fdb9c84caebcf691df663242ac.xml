@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Societal platforms / citizens"
+    id="id-1b0cf5fdb9c84caebcf691df663242ac"
+    documentation="Involve in living labs, participatory design, data use&#xA;E.g., Erasmus Urban Governance Lab; UU Citizen Science Initiatives">
+  <profiles
+      href="folder.xml#id-6dfdf6217a6d424987b2396f8b16006b"/>
+</archimate:BusinessRole>

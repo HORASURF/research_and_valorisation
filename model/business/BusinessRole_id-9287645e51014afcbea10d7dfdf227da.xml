@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Civic organizations / NGOs"
+    id="id-9287645e51014afcbea10d7dfdf227da"
+    documentation="Work with universities on participatory action research&#xA;E.g., Erasmus University Inclusive Cities Lab">
+  <profiles
+      href="folder.xml#id-6dfdf6217a6d424987b2396f8b16006b"/>
+</archimate:BusinessRole>

@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proposal co-design"
+    id="id-c6a009cf34ff4a3085da157f33897187"
+    documentation="Engage in call development or design studies&#xA;Capabilities: joint proposal writing, ethics desk, data stewardship&#xA;Examples: NWO co-funded projects; UU Science Shop">
+  <profiles
+      href="folder.xml#id-de3816436c8a4df286075a721873db48"/>
+</archimate:BusinessProcess>

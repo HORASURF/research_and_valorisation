@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Academic community"
+    id="id-db4d2a5fb98c43e7b1c62d5f20602ea8"
+    documentation="Researchers, faculties, PhD schools needing data, infrastructure, or models&#xA;E.g., TU Delft open science community; UvA research schools">
+  <profiles
+      href="folder.xml#id-6dfdf6217a6d424987b2396f8b16006b"/>
+</archimate:BusinessRole>

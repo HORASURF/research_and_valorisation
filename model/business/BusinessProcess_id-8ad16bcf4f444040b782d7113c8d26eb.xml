@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implementation &amp; Impact"
+    id="id-8ad16bcf4f444040b782d7113c8d26eb"
+    documentation="Apply solution in real-world setting&#xA;Capabilities: deployment support, evaluation, living labs&#xA;Examples: UU Science Park, Fieldlab Zwolle (Windesheim)">
+  <profiles
+      href="folder.xml#id-de3816436c8a4df286075a721873db48"/>
+</archimate:BusinessProcess>

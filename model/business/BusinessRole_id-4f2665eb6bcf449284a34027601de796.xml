@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public-private consortia"
+    id="id-4f2665eb6bcf449284a34027601de796"
+    documentation="Mixed initiatives requiring triple/quadruple helix collaboration&#xA;E.g., Health Innovation Hub Utrecht (UU), Techport (HvA)">
+  <profiles
+      href="folder.xml#id-6dfdf6217a6d424987b2396f8b16006b"/>
+</archimate:BusinessRole>

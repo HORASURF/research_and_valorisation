@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy makers / Ministries"
+    id="id-124929ae5942494c9d912ac573bd52f9"
+    documentation="Need evidence-based advice and policy translation&#xA;E.g., SCP, CPB collaboration with UvA, EUR research units">
+  <profiles
+      href="folder.xml#id-6dfdf6217a6d424987b2396f8b16006b"/>
+</archimate:BusinessRole>

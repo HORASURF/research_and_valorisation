@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Local/regional governments"
+    id="id-69e233b11c4343a383f77e0dca1829d5"
+    documentation="Use research for policy, spatial planning, sustainability&#xA;E.g., Utrecht Sustainability Institute; Living Labs Rotterdam (EUR)">
+  <profiles
+      href="folder.xml#id-6dfdf6217a6d424987b2396f8b16006b"/>
+</archimate:BusinessRole>

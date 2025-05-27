@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contracting and onboarding"
+    id="id-98738e0da86d4d7398bb9e35c225aa21"
+    documentation="Secure agreements and formal entry into research&#xA;Capabilities: contract management, project office, IP agreements&#xA;Examples: UU Contracts Office, HAN lectorate MOUs">
+  <profiles
+      href="folder.xml#id-de3816436c8a4df286075a721873db48"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Development and prototyping"
+    id="id-c1c72529e57745dca9e7c5a4a5114986"
+    documentation="Build and test solution&#xA;Capabilities: fab labs, fieldlabs, co-creation spaces, labs&#xA;Examples: YES!Delft, HAN Health Innovation Lab">
+  <profiles
+      href="folder.xml#id-de3816436c8a4df286075a721873db48"/>
+</archimate:BusinessProcess>

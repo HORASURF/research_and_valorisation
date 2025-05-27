@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Students / PhDs"
+    id="id-f7c4ddd9307d47f293b8b0963d6da0d4"
+    documentation="Rely on access to research topics, data, and supervision&#xA;E.g., Graduate Schools">
+  <profiles
+      href="folder.xml#id-6dfdf6217a6d424987b2396f8b16006b"/>
+</archimate:BusinessRole>

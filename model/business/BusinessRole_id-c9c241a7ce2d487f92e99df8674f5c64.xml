@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Private sector / industry"
+    id="id-c9c241a7ce2d487f92e99df8674f5c64"
+    documentation="Engage in contract research, R&amp;D collaboration, joint innovation&#xA;E.g., TU Delft tech transfer; Avans Centre of Expertise for Biobased Economy">
+  <profiles
+      href="folder.xml#id-6dfdf6217a6d424987b2396f8b16006b"/>
+</archimate:BusinessRole>

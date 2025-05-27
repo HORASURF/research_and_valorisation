@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Goal view"
-    id="id-16a352a2b3f046a2a49342370530d122">
+    id="id-16a352a2b3f046a2a49342370530d122"
+    viewpoint="motivation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fb9ac7feec0a479695ba113368614087"

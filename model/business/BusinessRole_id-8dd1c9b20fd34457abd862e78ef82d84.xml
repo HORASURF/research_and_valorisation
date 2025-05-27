@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lifelong learners / professionals"
+    id="id-8dd1c9b20fd34457abd862e78ef82d84"
+    documentation="Use valorised knowledge in continuing education&#xA;E.g., HAN Masterclasses; Windesheim Executive Education">
+  <profiles
+      href="folder.xml#id-6dfdf6217a6d424987b2396f8b16006b"/>
+</archimate:BusinessRole>

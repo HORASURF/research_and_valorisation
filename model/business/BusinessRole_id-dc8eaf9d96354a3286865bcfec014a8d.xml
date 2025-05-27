@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campus innovation hubs"
+    id="id-dc8eaf9d96354a3286865bcfec014a8d"
+    documentation="Provide testbeds and living labs for valorisation&#xA;E.g., TU Delft Campus; UU Utrecht Science Park; UvA’s Amsterdam Science Park">
+  <profiles
+      href="folder.xml#id-6dfdf6217a6d424987b2396f8b16006b"/>
+</archimate:BusinessRole>

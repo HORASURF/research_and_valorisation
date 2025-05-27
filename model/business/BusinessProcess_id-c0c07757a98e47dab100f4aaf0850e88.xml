@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solution Design and matchmaking"
+    id="id-c0c07757a98e47dab100f4aaf0850e88"
+    documentation="Co-develop idea, find researchers/students&#xA;Capabilities: matching services, design sprints, innovation brokers&#xA;Examples: TU Delft Campus Connect, UU Incubator">
+  <profiles
+      href="folder.xml#id-de3816436c8a4df286075a721873db48"/>
+</archimate:BusinessProcess>

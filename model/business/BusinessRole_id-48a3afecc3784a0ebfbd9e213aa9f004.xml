@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public sector institutions"
+    id="id-48a3afecc3784a0ebfbd9e213aa9f004"
+    documentation="Health, education, legal systems that benefit from applied research&#xA;E.g., HAN and Windesheim collaborations with GGZ, ROC’s">
+  <profiles
+      href="folder.xml#id-6dfdf6217a6d424987b2396f8b16006b"/>
+</archimate:BusinessRole>

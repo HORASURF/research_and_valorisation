@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IP / Knowledge Transfer"
+    id="id-8903c8edbc824d0687871eb2d1027177"
+    documentation="License knowledge, agree on ownership&#xA;Capabilities: tech transfer desk, legal services, contracts&#xA;Example: EUR Technology Transfer Office">
+  <profiles
+      href="folder.xml#id-de3816436c8a4df286075a721873db48"/>
+</archimate:BusinessProcess>
